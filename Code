@@ -16,7 +16,7 @@
 (CMD) When_pickup_G36_(/add)_to_(player)(@inventory)
 (CMD) When_pickup_Intervention_(/add)_to_(player)(@inventory)
 (CMD) When_pickup_STG-44_(/add)_to_(player)(@inventory)
-When pickup MP5K /add to player @inventory
+(CMD) When_pickup_MP5K_(/add)_to_(player)(@inventory)
 When pickup MP5 /add to player @inventory
 When pickup AA12 /add to player @inventory
 When pickup MP40 /add to player @inventory
