@@ -1,19 +1,21 @@
-When enter game /run spawn location @in_spawn_house
-When spawn set entitiy Burning_Bush_x2 to active
-When_spawn_set_entitiy_(Burning_Sphere_x10)_to_true
-When_spawn_set_entitiy_(Explosive_Barrel_x16)_to_true
-When_spawn_set_entitiy_(Zombie_Spawner_x3)_to_true
-When pickup railgun /add to player @inventory
-When pickup M60 /add to player @inventory
-When pickup Weapon /add to player @inventory
-When pickup SKS /add to player @inventory
-When pickup M4 /add to player @inventory
-When pickup Custom MP5 /add to player @inventory
-When pickup AWP /add to player @inventory
-When pickup Desert Eagle /add to player @inventory
-When pickup G36 /add to player @inventory
-When pickup Intervention /add to player @inventory
-When pickup STG-44 /add to player @inventory
+(CMD) When enter game /run spawn sequence.
+(Visual) /set_entitity_Galax_Backdrop
+(Visual) /set_entitity_(Galaxy_Spawn_Pad)
+(CMD) When_spawn_set_entitiy_(Burning_Bush_x2)_to_true
+(CMD) When_spawn_set_entitiy_(Burning_Sphere_x10)_to_true
+(CMD) When_spawn_set_entitiy_(Explosive_Barrel_x16)_to_true
+(CMD) When_spawn_set_entitiy_(Zombie_Spawner_x3)_to_true
+(CMD) When_pickup_railgun_(/add)_to_(player)(@inventory)
+(CMD) When_pickup_M60_(/add)_to_(player)(@inventory)
+(CMD) When_pickup_Weapon_(/add)_to_(player)(@inventory)
+(CMD) When_pickup_SKS_(/add)_to_(player)(@inventory)
+(CMD) When_pickup_M4_(/add)_to_(player)(@inventory)
+(CMD) When_pickup_Custom_MP5_(/add)_to_(player)(@inventory)
+(CMD) When_pickup_AWP_(/add)_to_(player)(@inventory)
+(CMD) When_pickup_(Desert_Eagle)_(/add)_to_(player)(@inventory)
+(CMD) When_pickup_G36_(/add)_to_(player)(@inventory)
+(CMD) When_pickup_Intervention_(/add)_to_(player)(@inventory)
+(CMD) When_pickup_STG-44_(/add)_to_(player)(@inventory)
 When pickup MP5K /add to player @inventory
 When pickup MP5 /add to player @inventory
 When pickup AA12 /add to player @inventory
