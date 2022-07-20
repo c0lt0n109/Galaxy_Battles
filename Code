@@ -1,30 +1,30 @@
 (CMD) When enter game /run spawn sequence.
 (Visual) /set_entitity_Galax_Backdrop
 (Visual) /set_entitity_(Galaxy_Spawn_Pad)
-(CMD) When_spawn_set_entitiy_(Burning_Bush_x2)_to_true
-(CMD) When_spawn_set_entitiy_(Burning_Sphere_x10)_to_true
-(CMD) When_spawn_set_entitiy_(Explosive_Barrel_x16)_to_true
-(CMD) When_spawn_set_entitiy_(Zombie_Spawner_x3)_to_true
-(CMD) When_pickup_railgun_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_M60_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_Weapon_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_SKS_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_M4_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_Custom_MP5_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_AWP_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_(Desert_Eagle)_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_G36_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_Intervention_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_STG-44_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_MP5K_(/add)_to_(player)(@inventory)
-(CMD) When_pickup_MP5_(/add)_to_(player)(@inventory)
-When pickup AA12 /add to player @inventory
-When pickup MP40 /add to player @inventory
-When pickup SCAR-H /add to player @inventory
-When pickup PP-19 Bizon /add to player @inventory
-When pickup RPK /add to player @inventory
-When pickup AK-47 /add to player @inventory
-When pickup AK12 /add to player @inventory
+When_spawn_set_entitiy_(Burning_Bush_x2)_to_true
+When_spawn_set_entitiy_(Burning_Sphere_x10)_to_true
+When_spawn_set_entitiy_(Explosive_Barrel_x16)_to_true
+When_spawn_set_entitiy_(Zombie_Spawner_x3)_to_true
+When_pickup_railgun_(/add)_to_(player)(@inventory)
+When_pickup_M60_(/add)_to_(player)(@inventory)
+When_pickup_Weapon_(/add)_to_(player)(@inventory)
+When_pickup_SKS_(/add)_to_(player)(@inventory)
+When_pickup_M4_(/add)_to_(player)(@inventory)
+When_pickup_Custom_MP5_(/add)_to_(player)(@inventory)
+When_pickup_AWP_(/add)_to_(player)(@inventory)
+When_pickup_(Desert_Eagle)_(/add)_to_(player)(@inventory)
+When_pickup_G36_(/add)_to_(player)(@inventory)
+When_pickup_Intervention_(/add)_to_(player)(@inventory)
+When_pickup_STG-44_(/add)_to_(player)(@inventory)
+When_pickup_MP5K_(/add)_to_(player)(@inventory)
+When_pickup_MP5_(/add)_to_(player)(@inventory)
+When_pickup_AA12_(/add)_to_(player)(@inventory)
+When_pickup_MP40(/add)_to_(player)(@inventory)
+When_pickup_SCAR-H_(/add)_to_(player)(@inventory)
+When_pickup_PP-19_Bizon_(/add)_to_(player)(@inventory)
+When_pickup_RPK_(/add)_to_(player)(@inventory)
+When_pickup_AK-47_(/add)_to_(player)(@inventory)
+When_pickup_AK12_(/add)_to_(player)(@inventory)
 When pickup AK74 /add to player @inventory
 When pickup AN94 /add to player @inventory
 When pickup AUG A3 /add to player @inventory
