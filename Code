@@ -25,8 +25,8 @@ When_pickup_PP-19_Bizon_(/add)_to_(player)(@inventory)
 When_pickup_RPK_(/add)_to_(player)(@inventory)
 When_pickup_AK-47_(/add)_to_(player)(@inventory)
 When_pickup_AK12_(/add)_to_(player)(@inventory)
-When pickup AK74 /add to player @inventory
-When pickup AN94 /add to player @inventory
+When_pickup_AK74_(/add)_to_(player)(@inventory)
+When_pickup_AN94_(/add)_to_(player)(@inventory)
 When pickup AUG A3 /add to player @inventory
 When pickup M249 /add to player @inventory
 When pickup Famas /add to player @inventory
