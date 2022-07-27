@@ -2169,12 +2169,18 @@ function checkRobloxInstall() {
 
 
 (CMD) When enter game /run spawn sequence.
-(Visual) /set_entitity_Galax_Backdrop
+(Visual) /set_entitity_Galaxy_Backdrop
 (Visual) /set_entitity_(Galaxy_Spawn_Pad)
 When_spawn_set_entitiy_(Burning_Bush_x2)_to_true
-When_spawn_set_entitiy_(Burning_Sphere_x10)_to_true
-When_spawn_set_entitiy_(Explosive_Barrel_x16)_to_true
+When_spawn_set_entitiy_(Burning_Sphere_x6)_to_true
 When_spawn_set_entitiy_(Zombie_Spawner_x3)_to_true
+When_spawn_set_entity_(Small_house)_to_true
+When_spawn_set_entity_(Floppa_store)_to_true
+When_spawn_set_entity_(Big_house)_to_true
+When_spawn_set_entity_(Hotel)_to_true
+When_spawn_set_entity_(Tree x6)_to_true
+When_spawn_set_entity_(Spawn_room)_to_true
+When_spawn_set_entity_(Car_spawner x4)_to_true
 When_pickup_railgun_(/add)_to_(player)(@inventory)
 When_pickup_M60_(/add)_to_(player)(@inventory)
 When_pickup_Weapon_(/add)_to_(player)(@inventory)
@@ -2197,10 +2203,11 @@ When_pickup_AK-47_(/add)_to_(player)(@inventory)
 When_pickup_AK12_(/add)_to_(player)(@inventory)
 When_pickup_AK74_(/add)_to_(player)(@inventory)
 When_pickup_AN94_(/add)_to_(player)(@inventory)
-When pickup AUG A3 /add to player @inventory
+When_pickup_AUG A3_(/add)_to_(player)(@inventory)
 When pickup M249 /add to player @inventory
 When pickup Famas /add to player @inventory
 When pickup Supreme_Money_Gun /add to player @inventory
 When pickup Rainbow_Shotgun_OP /add to player @inventory
 When pickup Mosin_Nagant /add to player @inventory
 When pickup RPG /add to player @inventory
+When pickup Blue_Laser_Gun /add to player @inventory
